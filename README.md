@@ -1,2 +1,3 @@
 # app-dev
-My first repository
+## my  fvaorite series is game of thrones
+### My first repository
